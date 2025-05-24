@@ -90,7 +90,7 @@ function requestIMG(query, index, color){
 
 }
 console.log(textElements);
-requestIMG('love red',0, 'red');
+requestIMG('Delakaytattoo',0, 'red');
 requestIMG('blue sea',1, 'blue');
 requestIMG('yellow world',2, 'yellow');
 requestIMG('green live',3 , 'green');
